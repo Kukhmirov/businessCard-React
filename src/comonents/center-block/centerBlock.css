@@ -1,0 +1,14 @@
+.block--centre span
+{
+    display: block;
+    transform: translateY(40px);
+    height: 6px;
+    width: 6px;
+    border-radius: 1000000px;
+    background: #fff;
+    margin-right: 5px;
+}
+.block--centre .needs-block .dot-container
+{
+    display: flex;
+}
